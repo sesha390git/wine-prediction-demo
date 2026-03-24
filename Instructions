@@ -1,0 +1,9 @@
+Add 1 row to wine-sample.csv  and make some smal changes and then push it to storage S3. 
+Once you did above, see if the data changed in S3
+Then you come back and remove the row I created and then push it to S3 to see if the changes happened in S3
+
+In main folder, ( Vinny provided in whatsapp)
+
+Add - Requirements.txt
+Add train.py 
+add utils.py

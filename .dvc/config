@@ -1,1 +1,4 @@
-
+[core]
+    remote = myremote2
+['remote "myremote2"']
+    url = s3://sesha-dvc-bucket-02/path/to/dvc/storage
